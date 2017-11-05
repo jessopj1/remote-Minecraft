@@ -12,7 +12,7 @@ RMCSM is a front end for `msm` allowing you to:
 
 
 ## Side Note
-> Sidenotehere
+>Insert sidenote/s here.
 
 
 ## Changelog
